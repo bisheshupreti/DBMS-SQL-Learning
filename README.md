@@ -31,7 +31,7 @@ The practical work in this repository supports the major objectives of the cours
 
 The complete course syllabus, including all units and topics, is available in the following PDF:
 
-📄 **[BCA - TU - DBMS Syllabus](00-Resources\BCA-TU-DBMS-SYLLABUS.pdf)**
+📄 **[BCA - TU - DBMS Syllabus](00-Resources/BCA-TU-DBMS-SYLLABUS.pdf)**
 
 ---
 
