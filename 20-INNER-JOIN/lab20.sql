@@ -20,3 +20,4 @@ SELECT c.class_name, COUNT(s.student_id) AS count
 FROM student s 
 INNER JOIN class c
 ON s.class_id = c.class_id 
+GROUP BY s.class_id, c.class_name;
